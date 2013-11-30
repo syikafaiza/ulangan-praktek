@@ -1,0 +1,7 @@
+nim -> int(5)
+nama ->varchar(20)
+kelas -> varchar (10)
+jurusan -> varchar (15)
+jenis kelamin ->enum p/l
+alamat -> text
+terakhir kumpulin jam 19.00 minggu
